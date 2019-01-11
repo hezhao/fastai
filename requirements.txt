@@ -1,11 +1,14 @@
-# sudo apt-get install build-essential gcc python3-dev 
+# sudo ubuntu-drivers autoinstall
+# sudo apt-get install build-essential libsm6 libxext6 libfontconfig1 libxrender1 nvidia-cuda-toolkit python3-dev
 
 bcolz
 fastai
 graphviz
 isoweek
 jupyter
+opencv-python
 pandas-summary
+seaborn
 sklearn-pandas
 torch
 torchtext

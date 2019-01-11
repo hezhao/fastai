@@ -1,2 +1,12 @@
-# "." uses requirements defined inside setup.py
-.
+# sudo apt-get install build-essential gcc python3-dev 
+
+bcolz
+fastai
+graphviz
+isoweek
+jupyter
+pandas-summary
+sklearn-pandas
+torch
+torchtext
+torchvision
